@@ -6,7 +6,6 @@ git:
      source_language: en
      translation_files_expression: 'translations/<lang>/'
 
-  filters:
    - filter_type: dir
      file_format: TXT
      source_file_extension: txt
