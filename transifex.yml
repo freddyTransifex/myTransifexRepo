@@ -5,3 +5,11 @@ git:
      source_file: locale/example.txt
      source_language: en
      translation_files_expression: 'translations/<lang>/'
+
+  filters:
+   - filter_type: dir
+     file_format: TXT
+     source_file_extension: txt
+     source_language: en
+     source_file_dir: locale/TestDir
+     translation_files_expression: 'translations/<lang>/'
