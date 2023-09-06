@@ -1,0 +1,32 @@
+{
+    "SIGN UP": {
+        "string": "SIGN UP ",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "First Name": {
+        "string": "First Name ",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "Last Name": {
+        "string": "Last Name ",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "Email Address": {
+        "string": "Email Address ",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "transifex": {
+        "string": "transifex",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    }
+}
