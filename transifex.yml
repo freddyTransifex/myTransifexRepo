@@ -14,7 +14,7 @@ git:
      translation_files_expression: 'translations/<lang>/'
 
    - filter_type: dir
-     file_format: JSON
+     file_format: KEYVALUEJSON
      source_file_extension: txt
      source_language: en
      source_file_dir: locale/TestDir/FigmaFile
