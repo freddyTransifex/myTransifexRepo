@@ -19,3 +19,10 @@ git:
      source_language: en
      source_file_dir: locale/TestDir/JSONfiles
      translation_files_expression: 'translations/<lang>/'
+
+   - filter_type: dir
+     file_format: DOCX
+     source_file_extension: docx
+     source_language: en
+     source_file_dir: locale/TestDir/DOCXfiles
+     translation_files_expression: 'translations/<lang>/'
