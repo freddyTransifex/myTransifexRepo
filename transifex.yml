@@ -26,3 +26,10 @@ git:
      source_language: en
      source_file_dir: locale/TestDir/DOCXfiles
      translation_files_expression: 'translations/<lang>/'
+
+   - filter_type: dir
+     file_format: RESX
+     source_file_extension: resx
+     source_language: en
+     source_file_dir: locale/TestDir/ResourceFiles
+     translation_files_expression: 'translations/<lang>/'
